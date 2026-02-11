@@ -1,5 +1,4 @@
 # freecodecamp
-Storing my Freecodecamp labs and worshop solutions
+Storing my Freecodecamp labs and workshop solutions
 
 
-Hi, I am B Priyanka.
